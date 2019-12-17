@@ -1,0 +1,5 @@
+﻿IDENTAÇÃO
+identar instruções de um bloco(4 espaços)
+append.
+int((intput))
+input()

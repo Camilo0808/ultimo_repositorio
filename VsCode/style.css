@@ -1,0 +1,23 @@
+body {
+    background-color:lightgray;
+    
+}
+
+ul {
+    background-color:red;
+    width: 1200px;
+}
+
+#caixaUm{
+    background-color:brown;
+    width: 200px;
+    height: 40px;
+    
+    
+}
+
+#caixaDois {
+    background-color:darkolivegreen;
+    width: 200px;
+    height: 40px;
+}

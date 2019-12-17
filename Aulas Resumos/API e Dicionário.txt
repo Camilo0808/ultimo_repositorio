@@ -1,0 +1,18 @@
+API
+ocorre quando uma empresa utiliza serviços da outra. uma comunicação de servidores, que pode ser paga ou gratuita. Por exemplo o facebook, quando vemos, "logar com facebook", ou o google maps, utilizado no uber, taxi 99 e etc. São exemplos de api.
+
+Framework
+
+
+
+
+Magic methods- Funções prontas para serem utilizadas numa linguagem de programação. ex; file_name.__pow__(argument); file_name.__mul__:("")
+
+
+Tupla(proteção,imutável), Dicionário{}, Lista[]. São todos meios de organizar dados.
+
+Procedural, Funcional, Orientação a Objetos. São modos de pensar(programar)
+Procedural: Em linhas(tradicional)
+Orientação a Objetos: Utiliza abstração, pega coisas do mundo real.
+Funcional: Mais rápida, prática e exata. Utiliza funções matemáticas
+

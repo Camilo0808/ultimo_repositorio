@@ -1,0 +1,8 @@
+Estudar orientação à objetos, na linguagem phyton.
+
+Funções - é um bloco de códigos, onde é escrita uma funcionalidade cuja é executada através uma ordem. A função pode receber parâmetros. ex; print(parâmetro).
+Parâmetros são argumentos dados a função para apresentar algum algorítimo.
+
+DEF- criar uma função
+.Format()- informar as varíaveis a serem impressas
+*args- agrupar argumentos

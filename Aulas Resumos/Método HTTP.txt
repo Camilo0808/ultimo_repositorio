@@ -1,0 +1,15 @@
+Web(sites)
+  Client>Request>Server>Response
+  DNS está entre cada processo(internet)
+
+APP>Transporte>Rede>Interface (Método HTTP)
+
+A comunicação pode ocorrer de diversas maneiras. Principalmente através do uso da mesma linguagem.
+
+Contexto>Emissor>Mensagem(canal,código)>Receptor
+
+Sistemas Distribuidos
+   globalização; informações trocadas. TCP/IP>Método HTTP>Comunicação
+   ex: google. enorme empresa de tecnologia que anda se expandindo cada vez mais, ampliando sistemas(Servidor) e distribuindo-o.
+
+

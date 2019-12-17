@@ -1,0 +1,24 @@
+LINGUAGENS DE PROGRAMAÇÃO
+É uma interface(programa) que facilita o processo de escrever códigos binários. Como uma ponte da linguagem humana, para a linguagem da máquina(binários).
+Os comandos geralmente aparecem em inglês
+Existem diversar linguagens de programação, com variadas finalidades. As mais famosas são;  Java(linguagem web, aplicativos); PHP(aplicações webs,sites); Ruby(automação, web); e a que iremos utilizar no curso, Phyton
+
+SINTAXE E SEMÂNTICA
+Sintaxe é o jeito de escrever, dentro de uma determinada l.p., por exemplo no jeito de entrar e sair (begin, end).
+Semântica dá significado à escrita. Quanto melhor a semântica, melhor se entende as linhas programadas. 
+
+INTRODUÇÃO A PHYTON
+Compiladas e Interpretadas. Uma linguagem compilada, traduz todos as linhas de processamento(ato de compilar) uma por uma, e se tiver algum erro, não transmite nada para o computador.Pode ser mais demorada. Executa tudo antes de enviar, se houver erros, interrompe.
+Nas linguagens interpretadas, a tradução ocorre "on the fly", então o processamento é enviado, e rodado. Se houver erros, o processamento é quebrado na hora. É mais rápida.
+Utilizaremos snake-case. O camelCase é do javaScript.
+Tipos de variáveis
+String- "texto", entre as aspas podemos inserir quaisquer caracteres
+Number- Integer; números inteiros
+       Float; números quebrados(a vírgula é representada pelo ponto. a vírgula é utilizada para criar tuplas) 
+       Boolean; True or False. É utilizado para preencher condições
+
+       COMANDOS
+       type() descobrir tipo de dado
+       fechar ctrl + z
+       print- imprimir algo
+
